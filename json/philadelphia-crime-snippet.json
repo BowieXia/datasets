@@ -496,16 +496,6 @@
   },
   {
     "District": 1,
-    "PSA": 1,
-    "Dispatch Date/Time": "02/03/2012 11:06:00 AM",
-    "DC Number": 201201000327,
-    "Location Block": "2100 BLOCK ETTING TERRACE  PHILADELPHIA  PA.",
-    "UCR Code": 400,
-    "General Crime Category": "Aggravated Assault Firearm",
-    "Coordinates": 0
-  },
-  {
-    "District": 1,
     "PSA": 2,
     "Dispatch Date/Time": "01/04/2012 02:21:00 AM",
     "DC Number": 201201000346,
@@ -2168,16 +2158,6 @@
   {
     "District": 1,
     "PSA": 1,
-    "Dispatch Date/Time": "02/28/2012 05:43:00 AM",
-    "DC Number": 201201002276,
-    "Location Block": "2300 BLOCK S 18ST",
-    "UCR Code": 300,
-    "General Crime Category": "Robbery Firearm",
-    "Coordinates": 0
-  },
-  {
-    "District": 1,
-    "PSA": 1,
     "Dispatch Date/Time": "01/18/2012 07:10:00 PM",
     "DC Number": 201201002279,
     "Location Block": "S 21ST ST  / W PASSYUNK AV",
@@ -2823,16 +2803,6 @@
     "General Crime Category": "Thefts",
     "Lat": 39.9128086669506,
     "Lng": -75.1854615230213
-  },
-  {
-    "District": 1,
-    "PSA": 2,
-    "Dispatch Date/Time": "01/24/2012 01:01:00 PM",
-    "DC Number": 201201003011,
-    "Location Block": "S 26TH ST / LANGLEY",
-    "UCR Code": 1400,
-    "General Crime Category": "Vandalism/Criminal Mischief",
-    "Coordinates": 0
   },
   {
     "District": 1,
@@ -4014,16 +3984,6 @@
   {
     "District": 1,
     "PSA": 1,
-    "Dispatch Date/Time": "02/01/2012 11:35:00 PM",
-    "DC Number": 201201004497,
-    "Location Block": "2200 BLOCK & SNYDER AVE",
-    "UCR Code": 2600,
-    "General Crime Category": "All Other Offenses",
-    "Coordinates": 0
-  },
-  {
-    "District": 1,
-    "PSA": 1,
     "Dispatch Date/Time": "02/02/2012 12:26:00 AM",
     "DC Number": 201201004510,
     "Location Block": "2900 BLOCK VARE AVE",
@@ -4207,16 +4167,6 @@
     "General Crime Category": "All Other Offenses",
     "Lat": 39.9265045725677,
     "Lng": -75.1910658201265
-  },
-  {
-    "District": 1,
-    "PSA": 1,
-    "Dispatch Date/Time": "02/04/2012 03:01:00 AM",
-    "DC Number": 201201004844,
-    "Location Block": "15TH & PASSYUNK AVEYUNK AVE",
-    "UCR Code": 800,
-    "General Crime Category": "Other Assaults",
-    "Coordinates": 0
   },
   {
     "District": 1,
